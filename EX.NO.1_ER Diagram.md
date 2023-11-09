@@ -1,6 +1,6 @@
 # EXP NO 1: ER DIAGRAM CREATION, RELATIONAL MODEL AND SCHEMA GENERATION  
 ### DATE: 
-## 16/08/2023
+## 09/08/2023
 ## AIM:
 <div align="justify">
    To create a ER Diagram for Bank management system or College management system using ERD Plus tool and generate the relational model with schema. 
